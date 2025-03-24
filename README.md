@@ -139,6 +139,7 @@ This helps in visualizing the layout before actual fabrication.
   
   - Minimum Output Resistance when LOW → 40kΩ
   - Minimum Output Resistance when HIGH → 30kΩ
+    
 
   <img width="594" alt="TB" src="https://github.com/user-attachments/assets/1ff08e25-de01-40e9-9e6c-ba32233b21f4" />
  
